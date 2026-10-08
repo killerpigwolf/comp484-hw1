@@ -1,6 +1,8 @@
 # COMP 484 HTML Reference Site
 
-This repository contains my COMP 484 HTML formatting assignment. The project is a multi-page reference site covering introductory HTML concepts.
+**Live website:** [https://killerpigwolf.github.io/comp484-hw1/](https://killerpigwolf.github.io/comp484-hw1/)
+
+This repository contains my COMP 484 HTML formatting assignment. The project is a reference site covering introductory HTML concepts.
 
 ## Assignment work
 
@@ -17,8 +19,4 @@ This repository contains my COMP 484 HTML formatting assignment. The project is 
 - `reference.html` — HTML terms and character entities
 - `next.html` — Learning advice and resources
 - `structure.html` — HTML document structure
-
-## Viewing the site
-
-Open `index.html` in a web browser, then use the navigation links to view the other pages.
 
